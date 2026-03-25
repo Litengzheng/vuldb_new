@@ -2,7 +2,7 @@
 
 Vendor:Tenda
 
-Product:CH22 
+Product:CH22  
 
 Version: V1.0.0.6(468)
 
