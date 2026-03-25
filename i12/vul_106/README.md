@@ -2,9 +2,16 @@
 
 Vendor:Tenda
 
-Product:i12 V1.0.0.11(3862) (https://www.tendacn.com/material/show/102773)
+Product:i12 
+
+Version: V1.0.0.11(3862) 
 
 Vulnerability: buffer overflow
+
+Firmware Download:https://www.tendacn.com/material/show/102773
+
+Author:Li Tengzheng
+
 
 ## Descriptions
 
