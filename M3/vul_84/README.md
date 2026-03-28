@@ -2,7 +2,7 @@
 
 Vendor:Tenda
 
-Product:i12 
+Product:i6 
 
 Version: V1.0.0.7(2204) 
 
