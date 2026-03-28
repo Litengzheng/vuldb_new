@@ -26,7 +26,7 @@ However, the application fails to validate or canonicalize the subsequent part o
 
 <div  align="center"><img src="./img/function.png" style="zoom:80%;" /></div>
 
-For example, a request to `/public/../../system_upgrade.asp` will satisfy the `strncmp` check (bypassing authentication) but will be resolved by the web server to the sensitive `system_upgrade.asp` page, granting full administrative access.
+For example, a request to `/public/../system_upgrade.asp` will satisfy the `strncmp` check (bypassing authentication) but will be resolved by the web server to the sensitive `system_upgrade.asp` page, granting full administrative access.
 
 
 
