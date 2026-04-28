@@ -1,4 +1,4 @@
-# i12 Vulnerability
+# i12 Vulnerability（CVE-2026-5609）
 
 Vendor:Tenda
 
