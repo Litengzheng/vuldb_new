@@ -1,4 +1,4 @@
-# FH1202 Vulnerability
+# FH1202 Vulnerability（CVE-2026-7035）
 
 Vendor:Tenda
 
