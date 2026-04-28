@@ -1,4 +1,4 @@
-# Belkin F9K1015 Vulnerability
+# Belkin F9K1015 Vulnerability（CVE-2026-5629）
 
 Vendor:Belkin
 
