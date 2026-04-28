@@ -1,4 +1,4 @@
-# A7100RU Vulnerability
+# A7100RU Vulnerability（CVE-2026-5976）
 
 Vendor:TOTOLINK
 
