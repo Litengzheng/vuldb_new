@@ -1,4 +1,4 @@
-# i6 Vulnerability
+# i6 Vulnerability（CVE-2026-6024）
 
 Vendor:Tenda
 
