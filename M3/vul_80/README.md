@@ -1,4 +1,4 @@
-# i9 Vulnerability
+# i9 Vulnerability（CVE-2026-7030）
 
 Vendor:Tenda
 
