@@ -1,4 +1,4 @@
-# F456 Vulnerability
+# F456 Vulnerability（CVE-2026-7031）
 
 Vendor:Tenda
 
