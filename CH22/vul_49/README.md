@@ -1,4 +1,4 @@
-# CH22 Vulnerability
+# CH22 Vulnerability（CVE-2026-5204）
 
 Vendor:Tenda
 
