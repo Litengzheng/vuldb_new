@@ -12,7 +12,7 @@ Download:http://totolink.net/home/menu/detail/menu_listtpl/download/id/185/ids/3
 
 Author:Li Tengzheng
 
-
+CVE-2026-6115
 
 ## Descriptions
 
