@@ -10,6 +10,8 @@ Vulnerability: Command Injection
 
 Download:http://totolink.net/home/menu/detail/menu_listtpl/download/id/185/ids/36.html
 
+CVE-2026-6138
+
 Author:Li Tengzheng
 
 
